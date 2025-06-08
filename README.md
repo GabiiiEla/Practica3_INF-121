@@ -1,1 +1,7 @@
 # Practica3_INF-121
+
+## GABRIELA APAZA CAUNA
+
+### CI: 9258985
+
+### RU:1822114
